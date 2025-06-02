@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sri and I'm a computer science student at the University of Exeter <br>with a passion for data science and machine learning. <br><br>I enjoy working on innovative personal AI projects and climbing. It’s a great mix of physical challenge and problem-solving, <br>helping me stay focused and pushing me to new heights, literally and mentally!
+I'm Sri and I'm a computer science student at the University of Exeter <br>I like machine learning and software development :). <br><br>I enjoy working on innovative personal AI projects and climbing. It’s a great mix of physical challenge and problem-solving, <br>helping me stay focused and pushing me to new heights, literally and mentally!
 
 
 ## 🌐 Socials:
